@@ -1,0 +1,2 @@
+# Multi-Layer-Network-Infrastructure-Simulation-for-a-Campus-Environment
+A simulated enterprise-level campus network designed using Cisco Packet Tracer. This project demonstrates a hierarchical network architecture with VLANs, inter-VLAN routing, DHCP, and dynamic routing protocols, suitable for academic or corporate environments. Ideal for learning core networking concepts and practicing configuration skills.
